@@ -5,7 +5,7 @@
         "factoryName": {
             "type": "string",
             "metadata": "Data Factory name",
-            "defaultValue": "Covid-Tracking-BritishColumbia-Test"
+            // "defaultValue": "Covid-Tracking-BritishColumbia-Test"
         },
         "dataFactoryLocation": {
             "defaultValue": "East US",
@@ -20,7 +20,7 @@
         },
         "storageAccountName": {
             "type": "String",
-			"defaultValue": "emumba",
+			// "defaultValue": "emumba",
             "metadata": {
                 "description": "Name of the Azure storage account that contains the input/output data."
             }

@@ -3,7 +3,7 @@
 #### Prerequisites:
 Resource group(s) for deployment for storage account and data factory.
 
-#### To be selected:
+#### To be provided:
 1. Resource Group
 2. Storage Account Name
 
@@ -14,7 +14,7 @@ Resource group(s) for deployment for storage account and data factory.
 #### Prerequisites:
 Resource group(s) for deployment for storage account and data factory.
 
-#### To be selected:
+#### To be provided:
 1. Resource Group
 2. Data Factory Name
 

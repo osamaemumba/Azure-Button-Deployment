@@ -4,7 +4,7 @@
     "parameters": {
         "factoryName": {
             "type": "string",
-            "metadata": "Data Factory name",
+            "metadata": "Data Factory name"
             // "defaultValue": "Covid-Tracking-BritishColumbia-Test"
         },
         "dataFactoryLocation": {

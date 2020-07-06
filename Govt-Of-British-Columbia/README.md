@@ -1,7 +1,7 @@
 ## Storage Account
 
 #### Prerequisites:
-1. Resource group(s) for deployment of storage account.
+1. Resource group for deployment of storage account.
 
 #### To be provided:
 1. Resource Group
@@ -14,7 +14,7 @@ Click the following button to deploy a new storage account and provide the above
 ## Data Factory
 
 #### Prerequisites:
-1. Resource group(s) for deployment of data factory.
+1. Resource group for deployment of data factory.
 2. A storage account for storing raw and curated files.
 
 #### To be provided:

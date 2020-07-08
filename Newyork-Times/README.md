@@ -39,4 +39,4 @@ Click the following button to deploy a new data factory and provide the above va
 
 Click the following button to deploy a new storage account and a new data factory and provide the above values. The latter resource will use the former one to store the raw and curated files.
 
-[![Deploy Storage Account and Data Factory to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fosamaemumba%2FAzure-Button-Deployment%2Fmaster%2FGovt-Of-British-Columbia%2FARM-Template-One-Click%2Fone_click_arm_template.json)
+[![Deploy Storage Account and Data Factory to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fosamaemumba%2FAzure-Button-Deployment%2Fmaster%2FNewyork-Times%2FARM-Template-One-Click%2Fone_click_arm_template.json)

@@ -30,16 +30,16 @@
 
     },
 
-            "resources": [
-                {
-                    "type": "Microsoft.DataFactory/factories",
-                    "apiVersion": "2018-06-01",
-                    "name": "[parameters('factoryName')]",
-                    "location": "[parameters('dataFactoryLocation')]",
-                    "identity": {
-                        "type": "SystemAssigned"
-                    },
-                    
+    "resources": [
+        {
+            "type": "Microsoft.DataFactory/factories",
+            "apiVersion": "2018-06-01",
+            "name": "[parameters('factoryName')]",
+            "location": "[parameters('dataFactoryLocation')]",
+            "identity": {
+                "type": "SystemAssigned"
+            },
+            
             "resources": [
                 {
                     "name": "[concat(parameters('factoryName'), '/parquet_sink_dataset')]",

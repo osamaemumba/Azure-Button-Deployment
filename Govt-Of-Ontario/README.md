@@ -24,7 +24,7 @@ Click the following button to deploy a new storage account and provide the above
 
 Click the following button to deploy a new data factory and provide the above values. Here the storage account name refers to that storage account which will be used for storing the raw and curated files.
 
-[![Deploy Data Factory to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fosamaemumba%2FAzure-Button-Deployment%2Fmaster%2FGovt-Of-Ontario%2FARM-Template-DataFactory%2Fdata_factory_arm_template.json)
+[![Deploy Data Factory to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fosamaemumba%2FAzure-Button-Deployment%2Fmaster%2FGovt-Of-Ontario%2FARM-Template-One-Click%2Fone_click_arm_template.json)
 
 
 ## One Click Deployment
